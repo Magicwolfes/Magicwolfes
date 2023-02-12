@@ -5,12 +5,35 @@
 </p>
 
 ### 🌟 Professional Competencies
- - I am a US Navy veteran, I was orginally a seabee and worked with power distribution and generation. 
+ - I am a US Navy veteran, I was orginally a seabee and worked with power distribution and generation. I was in the service for 5 years.
+ - A Growth Mindset:
+  - Ability to deal with ambiguous situations and solve problems with agility
+  - Envision beyond the responsibility of my role
+  - Build a career across multiple disciplines
+  - Attend every opportunity to learn and grow as a professional and a better human 
+
+- Diverse and Inclusive:
+  - Empower every person to achieve more
+  - Influencing others by encouraging communication
+  - Lifting up "Non-Traditional Backgrounds"
+  - Create a safe working environment for everyone
+  - Community outreach through volunteering
+
+- Leadership & Collaboration:
+  - Effectively communicating within a team and across teams
+  - Positively influencing others by setting a good example 
+  - Working tenaciously to deliver on commitments
+  - Constantly seeking bigger challenges
+  - Holding yourself and others accountable
+
 ### <h3>💡 What I'm Learning</h3>
-- I am with Code Fellows learning cyber security and getting my certificates. (ITF+ Security+ and Network+) 
+- I am with Code Fellows learning cyber security and getting my certificates. 
+- ITF+ Security+ and Network+
 ### <h3>👽 Fun Facts</h3>
 - I have a service dog named Zoey, she is a rescue!
-
+- I love open world video games.
+<h3>📚 Resources Used to Build This Repo</h3>
+https://github.com/HexxKing/HexxKing/blob/main/how-to.md
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicwolfes)](https://github.com/magicwolfes/github-readme-stats)
