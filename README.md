@@ -1,7 +1,7 @@
 ![mygreatheader](CyberSecurity.png)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sierra-maldonado/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-circled-64.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sierra-maldonado/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-circled-64 (1).png"></a>&nbsp;&nbsp;
 </p>
 
 ### 🌟 Professional Competencies
