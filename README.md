@@ -1,16 +1,16 @@
-### Hi there 👋
+![mygreatheader](CyberSecurity.png)
 
-<!--
-**Magicwolfes/Magicwolfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://https://www.linkedin.com/in/sierra-maldonado/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-circled-64.png"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+### 🌟 Professional Competencies
+ - I am a US Navy veteran, I was orginally a seabee and worked with power distribution and generation. 
+### <h3>💡 What I'm Learning</h3>
+- I am with Code Fellows learning cyber security and getting my certificates. (ITF+ Security+ and Network+) 
+### <h3>👽 Fun Facts</h3>
+- I have a service dog named Zoey, she is a rescue!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicwolfes)](https://github.com/magicwolfes/github-readme-stats)
