@@ -11,9 +11,10 @@
 
 #
 #
-
+#### Disabled USA Navy Veteran with an active Secret clearance. Cybersecurity Professional, with a construction electrician background. With my expertise in computer systems, networks, and software, I can help organizations optimize IT infrastructure, improve their operational efficiency, and enhance their overall business performance.
+# 
+#
 ### 🌟 Professional Competencies
- - I am a US Navy veteran, I was orginally a seabee and worked with power distribution and generation. I was in the service for 5 years.
  - A Growth Mindset:
   - Ability to deal with ambiguous situations and solve problems with agility
   - Envision beyond the responsibility of my role
