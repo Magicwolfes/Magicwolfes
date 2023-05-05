@@ -5,9 +5,12 @@
 </p>
 
 ### Projects
-<a href="https://github.com/NightOwlNetwork/"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-white" alt="NightOutNetwork | GitHub " width="148px"/></a> 
-<a href="https://github.com/FourwardElectronics"><img align="left" src="https://img.shields.io/badge/Repo-jESC SOP-white" alt="SOPs | GitHub Repo" width="148px"/></a> 
+<a href="https://github.com/NightOwlNetwork/"><img align="left" src="https://img.shields.io/badge/NightOwlNetwork-black" alt="NightOutNetwork | GitHub " width="170px"/></a> 
+<a href="https://github.com/FourwardElectronics"><img align="left" src="https://img.shields.io/badge/Fourward Electronics-black" alt="Fourward Electronics | GitHub" width="200px"/></a> 
 
+
+#
+#
 
 ### 🌟 Professional Competencies
  - I am a US Navy veteran, I was orginally a seabee and worked with power distribution and generation. I was in the service for 5 years.
