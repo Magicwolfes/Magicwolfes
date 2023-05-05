@@ -4,6 +4,19 @@
 <a href="https://www.linkedin.com/in/sierra-maldonado/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-circled-64 (1).png"></a>&nbsp;&nbsp;
 </p>
 
+#### Take a look at some of our prep work and documentation 
+<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a> 
+<a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-jESC SOP-white" alt="SOPs | GitHub Repo" width="148px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Automation-Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-white" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ### 🌟 Professional Competencies
  - I am a US Navy veteran, I was orginally a seabee and worked with power distribution and generation. I was in the service for 5 years.
  - A Growth Mindset:
