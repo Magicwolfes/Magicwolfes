@@ -31,34 +31,22 @@
 - PCAP - Entry Level
 - PCAP - Associate
 ### 🛠️ Technologies and Tools
-
-    GitHub 
-
-    VS Code 
-
-    Visual Studio 
-
-    VirtualBox 
-
-    VPNs
-
-    WireShark
-
-    Packet Tracer
-
-    Kali Linux
-
-    Splunk 
+| Technologies  | & | Tools |
+| ------------- |-------------| -----|
+| GitHub | VS Code | Visual Studio | 
+| VirtualBox | VPNs | WireShark |
+| Packet Tracer | Kali Linux | Splunk |
+#
 ### <h3>💡Education:</h3>
 - Code Fellows, WA
     
-        Ops and Cybersecurity Jan2023 - Jun2023
+    Ops and Cybersecurity Jan2023 - Jun2023
 - Six Sigma White belt in HR 03Nov22
 - Osha Safety Cards
 
-        10 Hour General Safety and health - Apr2021
-   
-        30 Hour Construction Safety and Health - May2020
+    10 Hour General Safety and health - Apr2021
+
+    30 Hour Construction Safety and Health - May2020
 - Python Essentials 1 - Issued by Cisco - April 30, 2023
 - Introduction to Cybersecurity - Issued by Cisco - May 01, 2023
 - Computer Hardware Basics - Issued by Cisco - May 04, 2023
