@@ -30,7 +30,25 @@
 - Sec+
 - PCAP - Entry Level
 - PCAP - Associate
+### 🛠️ Technologies and Tools
 
+    GitHub 
+
+    VS Code 
+
+    Visual Studio 
+
+    VirtualBox 
+
+    VPNs
+
+    WireShark
+
+    Packet Tracer
+
+    Kali Linux
+
+    Splunk 
 ### <h3>💡Education:</h3>
 - Code Fellows, WA
     
