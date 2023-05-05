@@ -6,7 +6,7 @@
 
 ### Projects
 <a href="https://github.com/NightOwlNetwork/"><img align="left" src="https://img.shields.io/badge/NightOwlNetwork-black" alt="NightOutNetwork | GitHub " width="170px"/></a> 
-<a href="https://github.com/FourwardElectronics"><img align="left" src="https://img.shields.io/badge/Fourward Electronics-black" alt="Fourward Electronics | GitHub" width="200px"/></a> 
+<a href="https://github.com/Fourward-Electronics"><img align="left" src="https://img.shields.io/badge/Fourward Electronics-black" alt="Fourward Electronics | GitHub" width="200px"/></a> 
 
 
 #
