@@ -31,12 +31,21 @@
 - PCAP - Entry Level
 - PCAP - Associate
 
-### <h3>💡 What I'm Learning</h3>
-- I am with Code Fellows learning cyber security and getting my certificates. 
-- ITF+ Security+ and Network+
+### <h3>💡Education:</h3>
+- Code Fellows, WA
+    Ops and Cybersecurity Jan2023 - Jun2023
+- Six Sigma White belt in HR 03Nov22
+- Osha Safety Cards
+   10 Hour General Safety and health - Apr2021
+   30 Hour Construction Safety and Health - May2020
+- Python Essentials 1 - Issued by Cisco - April 30, 2023
+- Introduction to Cybersecurity - Issued by Cisco - May 01, 2023
+- Computer Hardware Basics - Issued by Cisco - May 04, 2023
+
 ### <h3>👽 Fun Facts</h3>
 - I have a service dog named Zoey, she is a rescue!
 - I love open world video games.
+
 <h3>📚 Resources Used to Build This Repo</h3>
 https://github.com/HexxKing/HexxKing/blob/main/how-to.md
 
