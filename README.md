@@ -36,7 +36,7 @@
     Ops and Cybersecurity Jan2023 - Jun2023
 - Six Sigma White belt in HR 03Nov22
 - Osha Safety Cards
-   10 Hour General Safety and health - Apr2021
+   10 Hour General Safety and health - Apr2021\n
    30 Hour Construction Safety and Health - May2020
 - Python Essentials 1 - Issued by Cisco - April 30, 2023
 - Introduction to Cybersecurity - Issued by Cisco - May 01, 2023
