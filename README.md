@@ -23,7 +23,7 @@
 - Continuous learning: A commitment to continuous learning and staying up-to-date with the latest cybersecurity trends and best practices.
 #
 
-### 🌟 Certifcations:
+### ✨ Certifcations:
 - ITF+
 #### Certifcation Goals:
 - Net+
