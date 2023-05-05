@@ -52,9 +52,11 @@
 - Introduction to Cybersecurity - Issued by Cisco - May 01, 2023
 - Computer Hardware Basics - Issued by Cisco - May 04, 2023
 
-### <h3>👽 Fun Facts</h3>
+### <h3>🐬 Fun Facts</h3>
 - I have a service dog named Zoey, she is a rescue!
 - I love open world video games.
+- I love musicals! 🎵
+- I can play the flute and piccolo
 
 <h3>📚 Resources Used to Build This Repo</h3>
 https://github.com/HexxKing/HexxKing/blob/main/how-to.md
