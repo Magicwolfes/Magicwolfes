@@ -14,26 +14,22 @@
 #### Disabled USA Navy Veteran with an active Secret clearance. Cybersecurity Professional, with a construction electrician background. With my expertise in computer systems, networks, and software, I can help organizations optimize IT infrastructure, improve their operational efficiency, and enhance their overall business performance.
 # 
 #
-### 🌟 Professional Competencies
- - A Growth Mindset:
-  - Ability to deal with ambiguous situations and solve problems with agility
-  - Envision beyond the responsibility of my role
-  - Build a career across multiple disciplines
-  - Attend every opportunity to learn and grow as a professional and a better human 
+### 🌟 Skills
 
-- Diverse and Inclusive:
-  - Empower every person to achieve more
-  - Influencing others by encouraging communication
-  - Lifting up "Non-Traditional Backgrounds"
-  - Create a safe working environment for everyone
-  - Community outreach through volunteering
+- Network security, vulnerability scanning and assessments, penetration testing, intrusion detection and prevention,   incident response, and malware analysis.
+- Risk assessment: Ability to identify, assess, and mitigate potential risks and vulnerabilities to an organization's systems and network.
+- Programming and scripting: Familiarity with programming languages such as Python, PowerShell, and Bash.
+- Communication and collaboration: Ability to communicate complex technical information to non-technical stakeholders and collaborate effectively with cross-functional teams.
+- Continuous learning: A commitment to continuous learning and staying up-to-date with the latest cybersecurity trends and best practices.
+#
 
-- Leadership & Collaboration:
-  - Effectively communicating within a team and across teams
-  - Positively influencing others by setting a good example 
-  - Working tenaciously to deliver on commitments
-  - Constantly seeking bigger challenges
-  - Holding yourself and others accountable
+### 🌟 Certifcations:
+- ITF+
+#### Certifcation Goals:
+- Net+
+- Sec+
+- PCAP - Entry Level
+- PCAP - Associate
 
 ### <h3>💡 What I'm Learning</h3>
 - I am with Code Fellows learning cyber security and getting my certificates. 
