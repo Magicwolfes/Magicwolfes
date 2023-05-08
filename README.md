@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/sierra-maldonado/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-circled-64 (1).png"></a>&nbsp;&nbsp;
 </p>
 
+
 ### Projects
 <a href="https://github.com/NightOwlNetwork/"><img align="left" src="https://img.shields.io/badge/NightOwlNetwork-black" alt="NightOutNetwork | GitHub " width="165px"/></a> 
 <a href="https://github.com/Fourward-Electronics"><img align="left" src="https://img.shields.io/badge/Fourward Electronics-black" alt="Fourward Electronics | GitHub" width="200px"/></a> 
@@ -12,6 +13,16 @@
 #
 #
 #### Disabled USA Navy Veteran with an active Secret clearance. Cybersecurity Professional, with a construction electrician background. With my expertise in computer systems, networks, and software, I can help organizations optimize IT infrastructure, improve their operational efficiency, and enhance their overall business performance.
+
+
+
+
+
+
+### [Business Card](https://github.com/Magicwolfes/Magicwolfes/blob/main/Card.png)
+
+
+
 # 
 #
 ### 🌟 Skills
