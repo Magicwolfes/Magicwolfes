@@ -50,7 +50,7 @@
 | GitHub | VS Code | Visual Studio | 
 | VirtualBox | VPNs | WireShark |
 | Packet Tracer | Kali Linux | Splunk |
-| Nmap | Metasploit | 
+| Nmap | Metasploit | Aws |
 #
 ### <h3>💡Education:</h3>
 - Code Fellows, WA
