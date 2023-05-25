@@ -51,7 +51,7 @@
 | VirtualBox | VPNs | WireShark |
 | Packet Tracer | Kali Linux | Splunk |
 | Nmap | Metasploit | AWS |
-|Data Encryption |  Ubuntu | Hydra |
+|Data Encryption |  Microsoft Threat Modeling Tool | Hydra |
 #
 ### <h3>💡Education:</h3>
 - Code Fellows, WA
