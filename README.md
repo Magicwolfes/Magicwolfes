@@ -5,7 +5,7 @@
 </p>
 
 
-### Projects
+## Projects
 <a href="https://github.com/NightOwlNetwork/"><img align="left" src="https://img.shields.io/badge/NightOwlNetwork-black" alt="NightOutNetwork | GitHub " width="165px"/></a> 
 <a href="https://github.com/Fourward-Electronics"><img align="left" src="https://img.shields.io/badge/Fourward Electronics-black" alt="Fourward Electronics | GitHub" width="200px"/></a> 
 <a href="https://github.com/IronCloudSecurity"><img align="left" src="https://img.shields.io/badge/Iron Cloud Security-black" alt="Iron Cloud | GitHub" width="190px"/></a> 
@@ -22,7 +22,7 @@
 
 
 
-### [Business Card](https://github.com/Magicwolfes/Magicwolfes/blob/main/Card(1).png)    |     [Resume](https://github.com/Magicwolfes/Magicwolfes/blob/main/Sierra%20Maldonado%20-%20Resume.pdf)
+## [Business Card](https://github.com/Magicwolfes/Magicwolfes/blob/main/Card(1).png)    |     [Resume](https://github.com/Magicwolfes/Magicwolfes/blob/main/Sierra%20Maldonado%20-%20Resume.pdf)
 
 
 
