@@ -42,6 +42,7 @@
 - Sec+
 - PCAP - Entry Level
 - PCAP - Associate
+#
 ### 🛠️ Technologies and Tools
 | Technologies  | & | Tools |
 | ------------- |-------------| -----|
@@ -64,7 +65,7 @@
 - Python Essentials 1 - Issued by Cisco - April 30, 2023
 - Introduction to Cybersecurity - Issued by Cisco - May 01, 2023
 - Computer Hardware Basics - Issued by Cisco - May 04, 2023
-
+#
 ### <h3>🐬 Fun Facts</h3>
 - I have a service dog named Zoey, she is a rescue!
 - I love open world video games.
