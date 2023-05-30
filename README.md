@@ -49,7 +49,7 @@
 | Packet Tracer | Kali Linux | Splunk |
 | Nmap | Metasploit | AWS |
 |Data Encryption |  Microsoft Threat Modeling Tool | Hydra |
-| Spiceworks |
+| Spiceworks | Yara |
 #
 ### <h3>💡Education:</h3>
 - Code Fellows, WA
