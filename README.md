@@ -40,6 +40,8 @@
 - Sec+
 - PCAP - Entry Level
 - PCAP - Associate
+- Cybersecurity, (CCST) Networking
+
 #
 ### 🛠️ Technologies and Tools
 | Technologies  | & | Tools |
