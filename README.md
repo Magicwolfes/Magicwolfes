@@ -22,7 +22,7 @@
 
 
 
-## [Business Card](https://github.com/Magicwolfes/Magicwolfes/blob/main/Card(1).png)    |     [Resume](https://github.com/Magicwolfes/Magicwolfes/blob/main/Sierra%20Maldonado%20-%20Resume.pdf)
+## [Business Card](https://github.com/Magicwolfes/Magicwolfes/blob/main/Card(1).png)    |     [Resume](https://github.com/Magicwolfes/Magicwolfes/blob/main/Sierra%20Maldonado%20-%20Resume%20(1).pdf)
 
 ### 🌟 Skills
 
