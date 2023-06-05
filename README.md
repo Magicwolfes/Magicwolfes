@@ -50,6 +50,7 @@
 | Nmap | Metasploit | AWS |
 |Data Encryption |  Microsoft Threat Modeling Tool | Hydra |
 | Spiceworks | Yara | Autopsy Digital Forensics    |
+| Rita | Zeel |
 #
 ### <h3>💡Education:</h3>
 - Code Fellows, WA
