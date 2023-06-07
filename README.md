@@ -52,7 +52,7 @@
 | Nmap | Metasploit | AWS |
 |Data Encryption |  Microsoft Threat Modeling Tool | Hydra |
 | Spiceworks | Yara | Autopsy Digital Forensics    |
-| Rita | Zeek |
+| Rita | Zeek | Cisco Packet Tracer |
 #
 ### <h3>💡Education:</h3>
 - Code Fellows, WA
@@ -67,6 +67,7 @@
 - Python Essentials 1 - Issued by Cisco - April 30, 2023
 - Introduction to Cybersecurity - Issued by Cisco - May 01, 2023
 - Computer Hardware Basics - Issued by Cisco - May 04, 2023
+- Cisco Packet Tracer - Issued by Cisco - May 25, 2023
 #
 ### <h3>🐬 Fun Facts</h3>
 - I have a service dog named Zoey, she is a rescue!
