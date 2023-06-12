@@ -35,12 +35,15 @@
 
 ### ✨ Certifcations:
 - ITF+
+- PCAP - Entry Level
 #### Certifcation Goals:
 - Net+
 - Sec+
-- PCAP - Entry Level
 - PCAP - Associate
 - Cybersecurity, (CCST) Networking
+- JSE – Certified Entry-Level JavaScript Programmer
+- JSA – Certified Associate JavaScript Programmer
+
 
 #
 ### 🛠️ Technologies and Tools
